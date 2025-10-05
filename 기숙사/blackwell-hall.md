@@ -2,7 +2,7 @@
 title: Blackwell Hall
 description: 
 published: true
-date: 2025-10-05T13:50:33.365Z
+date: 2025-10-05T14:50:52.762Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-05T12:45:00.155Z
@@ -10,7 +10,8 @@ dateCreated: 2025-10-05T12:45:00.155Z
 
 <img src="https://housing.berkeley.edu/wp-content/uploads/Blackwell-Exterior-750px-700x500.jpg" />
 
-대부분의 한국인 유학생이 지내는 기숙사. 풀네임은 David Blackwell Hall. 가장 최근에 지어진 기숙사이기도 하다 (2025년 기준).
+대부분의 한국인 유학생이 지내는 기숙사. 풀네임은 David Blackwell Hall.
+가장 최근에 지어진 기숙사이기도 하다 (2025년 기준).
 
 [UC Berkeley Housing 페이지(영어)](https://housing.berkeley.edu/explore-housing-options/residence-halls/blackwell-hall/)에서 내부 모습을 3D로 볼 수 있다.
 
@@ -23,7 +24,18 @@ dateCreated: 2025-10-05T12:45:00.155Z
 
 
 # 2. 부대시설
-## 2.1. Study Lounge
+## 2.1. 매 층에 있는 시설
+### 2.1.1. 세탁실
+매 층 엘리베이터 옆에 있는 시설. 세탁기와 건조기를 유료로 사용할 수 있다.
+
+세탁기와 건조기가 물리적으로 매우 강력하게 작동한다. 약한 옷감의 경우 손상에 주의하자. 세탁만 하고 건조는 방에서 할 수도 있다.
+
+2025년 기준 비용은 아래와 같다.
+|세탁|건조|
+|------|---|
+|$2.00|$1.75|
+
+
 
 # 3. 인터넷 환경
 방을 포함한 실내 대부분의 구역에 WiFi가 제공된다. 속도는 꽤나 빠르다.
