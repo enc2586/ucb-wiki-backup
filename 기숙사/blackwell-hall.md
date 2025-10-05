@@ -2,7 +2,7 @@
 title: Blackwell Hall
 description: 
 published: true
-date: 2025-10-05T15:06:45.449Z
+date: 2025-10-05T15:08:11.697Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-05T12:45:00.155Z
@@ -38,6 +38,7 @@ dateCreated: 2025-10-05T12:45:00.155Z
 
 비용 결제는 세탁카드 또는 Wash-Connect앱([Android](https://play.google.com/store/apps/details?id=com.wash.connect)|[iOS](https://apps.apple.com/us/app/wash-connect/id1469627109))으로 할 수 있다. 2층 세탁실(조리공간 내부에 있음)의 무인기기에서 세탁카드를 구매하고 충전할 수 있으나, 초기 구매 시 카드 비용이 따로 든다. 앱을 이용하면 세탁카드 비용 없이 충전 후 결제할 수 있고, 각 층별 세탁기 사용현황도 볼 수 있으므로 Wash-Connect 앱을 설치해두는 것을 추천한다. 최소 충전금액이 있으며, 앱의 경우 $10씩 충전할 수 있다.
 
+참고로, 세제가 별도이다. 한국에서 사오거나, 근처 Target에서 캡슐세제를 구매 가능하다.
 
 # 3. 인터넷 환경
 방을 포함한 실내 대부분의 구역에 WiFi가 제공된다. 속도는 꽤나 빠르다.
