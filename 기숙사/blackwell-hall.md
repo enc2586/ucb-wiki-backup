@@ -2,7 +2,7 @@
 title: Blackwell Hall
 description: 
 published: true
-date: 2025-10-05T13:49:32.317Z
+date: 2025-10-05T13:50:33.365Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-05T12:45:00.155Z
@@ -10,7 +10,7 @@ dateCreated: 2025-10-05T12:45:00.155Z
 
 <img src="https://housing.berkeley.edu/wp-content/uploads/Blackwell-Exterior-750px-700x500.jpg" />
 
-대부분의 한국인 유학생이 지내는 기숙사. 가장 최근에 지어진 기숙사이기도 하다 (2025년 기준).
+대부분의 한국인 유학생이 지내는 기숙사. 풀네임은 David Blackwell Hall. 가장 최근에 지어진 기숙사이기도 하다 (2025년 기준).
 
 [UC Berkeley Housing 페이지(영어)](https://housing.berkeley.edu/explore-housing-options/residence-halls/blackwell-hall/)에서 내부 모습을 3D로 볼 수 있다.
 
