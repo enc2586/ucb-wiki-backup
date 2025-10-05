@@ -2,7 +2,7 @@
 title: Blackwell Hall
 description: 
 published: true
-date: 2025-10-05T13:33:13.419Z
+date: 2025-10-05T13:33:47.779Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-05T12:45:00.155Z
@@ -14,4 +14,6 @@ dateCreated: 2025-10-05T12:45:00.155Z
 
 # 여담
 
--   기숙사의 이름은 [David Blackwell](https://en.wikipedia.org/wiki/David_Blackwell) 교수를 기리고자 교수님의 이름에서 따 와서 지어졌다.
+-   기숙사의 이름은 [David Blackwell](https://en.wikipedia.org/wiki/David_Blackwell) 교수를 기리고자 교수님의 이름에서 따 와서 지어졌다.[^1]
+
+[^1]: 1층 Study Lounge에 Blackwell님의 초상화가 걸려 있다.
