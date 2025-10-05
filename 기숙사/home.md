@@ -2,7 +2,7 @@
 title: 기숙사
 description: 
 published: true
-date: 2025-10-05T12:12:56.704Z
+date: 2025-10-05T13:10:32.247Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-05T12:00:14.245Z
