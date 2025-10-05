@@ -2,7 +2,7 @@
 title: Blackwell Hall
 description: 
 published: true
-date: 2025-10-05T13:37:39.660Z
+date: 2025-10-05T13:44:24.069Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-05T12:45:00.155Z
@@ -12,11 +12,15 @@ dateCreated: 2025-10-05T12:45:00.155Z
 
 [UC Berkeley Housing 페이지(영어)](https://housing.berkeley.edu/explore-housing-options/residence-halls/blackwell-hall/)에서 내부 모습을 3D로 볼 수 있다.
 
-# 방
+# 1. 호실
 ![Room](https://housing.berkeley.edu/wp-content/uploads/BH-Double-Bed-Typical.jpg)
 
 기본적으로 2인실이다. 책상, 침대, 전자레인지와 냉장고가 제공된다.
 
+# 2. 인터넷 환경
+방을 포함한 실내 대부분의 구역에 WiFi가 제공된다. 속도는 꽤나 빠르다.
+
+방 책상 근처에는 LAN포트도 있다. 여름학기 기간과 수강신청이 겹친다면 랜선과 컨버터를 챙겨가자.
 
 
 # 여담
