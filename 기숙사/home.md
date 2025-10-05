@@ -2,7 +2,7 @@
 title: 기숙사
 description: 
 published: true
-date: 2025-10-05T13:10:32.247Z
+date: 2025-10-05T13:11:15.760Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-05T12:00:14.245Z
@@ -13,7 +13,7 @@ UC Berkeley에는 여러 기숙사들이 있습니다.
 
 우리가 보통 지낼 South Campus 부근의 기숙사는 2025년 기준 아래와 같습니다.
 
-## Blackwell Hall
+## [Blackwell Hall](/기숙사/blackwell-hall)
 대부분의 대한민국 교환학생들이 지내게 되는 기숙사.
 가장 최근에 지어진 기숙사이기도 합니다.
 
