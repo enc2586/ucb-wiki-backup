@@ -2,7 +2,7 @@
 title: 이 위키에 대해
 description: UC Berkeley 서머세션에 대한 정보를 공유하기 위한 한국어 위키입니다.
 published: true
-date: 2025-12-15T16:38:17.576Z
+date: 2025-12-15T16:40:20.720Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-04T07:32:26.529Z
@@ -14,21 +14,21 @@ UC Berkeley 서머세션에 대한 정보를 공유하는 한국어 위키입니
 
 ## 회원가입 안내
 위키를 **수정**하려면 회원가입해야 합니다. 현재 가입은 아래 도메인으로 된 이메일만 가능합니다.
-> 개인이 관리하는 위키라서 부득이 가입에 제약조건을 두게 되었습니다. 양해 부탁드립니다.
+> 개인이 관리하는 위키이기에 부득이 가입에 제약조건을 두게 되었습니다. 양해 부탁드립니다.
 {.is-info}
 
-- 즉시 가입 승인
-  - `@dgist.ac.kr`
-  - `@gist.ac.kr`
-  - `@gm.gist.ac.kr`
-  - `@kaist.ac.kr`
-  - `@postech.ac.kr`
-  - `@unist.ac.kr`
-- 유학 사실 확인 후 승인 (규모에 비해 유학 인원이 적은 경우)
-	- `@hanyang.ac.kr`
-	- `@korea.ac.kr`
-	- `@snu.ac.kr`
-  - `@yonsei.ac.kr`
+### 즉시 가입 승인
+- `@dgist.ac.kr`
+- `@gist.ac.kr`
+- `@gm.gist.ac.kr`
+- `@kaist.ac.kr`
+- `@postech.ac.kr`
+- `@unist.ac.kr`
+### 유학 사실 확인 후 승인 (규모에 비해 유학 인원이 적은 경우)
+- `@hanyang.ac.kr`
+- `@korea.ac.kr`
+- `@snu.ac.kr`
+- `@yonsei.ac.kr`
   
 
 본인의 학교가 UCB로의 유학을 지원하지만 위 리스트에 없다면, enc2586@gmail.com 으로 연락주세요.
