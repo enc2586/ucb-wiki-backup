@@ -2,7 +2,7 @@
 title: 이 위키에 대해
 description: UC Berkeley 서머세션에 대한 정보를 공유하기 위한 한국어 위키입니다.
 published: true
-date: 2025-12-15T16:40:56.503Z
+date: 2025-12-15T16:47:51.574Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-04T07:32:26.529Z
@@ -24,16 +24,9 @@ UC Berkeley 서머세션에 대한 정보를 공유하는 한국어 위키입니
 - `@kaist.ac.kr`
 - `@postech.ac.kr`
 - `@unist.ac.kr`
-### 유학 사실 확인 후 승인
-규모에 비해 유학인원 비율이 적은 경우입니다.
-- `@hanyang.ac.kr`
-- `@korea.ac.kr`
-- `@snu.ac.kr`
-- `@yonsei.ac.kr`
-  
 
-본인의 학교가 UCB로의 유학을 지원하지만 위 리스트에 없다면, enc2586@gmail.com 으로 연락주세요.
-본인이 직접 UC Berkeley 서머세션에 다녀온 경우에도 위 이메일로 연락주세요.
+### 수동 가입 요청
+
 
 ## 🚧공사중🚧
 현재 위키의 기초를 공사하는 중입니다. 사용이 원활하지 않을 수 있어요.
