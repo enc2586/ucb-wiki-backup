@@ -2,7 +2,7 @@
 title: 각종 팁
 description: 알쓸신잡 팁들을 정리해둔 곳입니다. 매우 주관적임! 시간에 따라 다른 내용 있을 수 있음!
 published: true
-date: 2026-06-18T18:16:05.991Z
+date: 2026-06-18T18:16:37.840Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-18T15:13:28.425Z
@@ -162,3 +162,4 @@ Uber와 Lyft 모두 Wait & Save 라는 옵션이 있다. 배차가 늦게 잡히
 - 한식집이 두개 있는데, Ko Stop보단 Kimchi Garden 추천. Ko Stop은 너무 짜다.
 - 요거트 아이스크림집이 있는데 매일 메뉴와 토핑이 바뀐다. 인스타로 공지되니 참고!
 - GrubHub 앱을 설치하면 Meal Point를 배달음식 / 식당 음식 테이크아웃에 사용할 수 있다. 
+- 판다익스프레스는 반드시 멤버십 가입을 해서 적립받자. 꽤 쏠쏠하다.
